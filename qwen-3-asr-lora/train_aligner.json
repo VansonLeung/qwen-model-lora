@@ -1,0 +1,13 @@
+[
+  {
+    "audio": "path/to/speech_001.wav",
+    "text": "the quick brown fox",
+    "text_tokens": [101, 1996, 4248, 2829, 4419, 102],
+    "target_timestamps": [
+      [0.24, 0.48],
+      [0.48, 0.72],
+      [0.72, 1.04],
+      [1.04, 1.36]
+    ]
+  }
+]
